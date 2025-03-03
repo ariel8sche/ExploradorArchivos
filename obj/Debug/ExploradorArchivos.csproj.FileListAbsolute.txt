@@ -1,0 +1,7 @@
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\bin\Debug\ExploradorArchivos.exe.config
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\bin\Debug\ExploradorArchivos.exe
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\bin\Debug\ExploradorArchivos.pdb
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\obj\Debug\ExploradorArchivos.csproj.AssemblyReference.cache
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\obj\Debug\ExploradorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\obj\Debug\ExploradorArchivos.exe
+C:\Users\ariel\OneDrive\Documents\ExploradorArchivos\obj\Debug\ExploradorArchivos.pdb
